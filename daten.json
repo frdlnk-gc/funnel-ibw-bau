@@ -1,0 +1,166 @@
+{
+  "firma": "IBW Baugesellschaft mbH",
+  "stelle": "Baggerfahrer & Straßenbaufacharbeiter (m/w/d)",
+  "ort": "Pritzwalk",
+  "plz": "16928",
+  "region_badge": "Pritzwalk & Heiligengrabe",
+  "farbe_primary": "#004CFF",
+  "farbe_secondary": "#B2B2B2",
+  "benefit_top": "Keine Montage mit Übernachtung · Verpflegungspauschale",
+  "stellen_frage": "Für welche Stelle interessierst du dich?",
+  "stellen": [
+    {
+      "label": "Baggerfahrer/ Erfahrung im Straßen- und Tiefbau (m/w/d)",
+      "sub": "Einsatzort Heiligengrabe",
+      "icon": "🚜"
+    },
+    {
+      "label": "Straßenbaufacharbeiter (m/w/d)",
+      "sub": "Einsatzort Pritzwalk",
+      "icon": "🚧"
+    }
+  ],
+  "benefits": [
+    "Unbefristeter Arbeitsvertrag",
+    "Keine Montageeinsätze mit Übernachtung",
+    "Kostenlose Mahlzeiten bzw. Verpflegungspauschale",
+    "Kostenübernahme für berufliche Zertifizierungen",
+    "Interne Karrierechancen",
+    "Flache Hierarchien",
+    "Freundliches Arbeitsklima"
+  ],
+  "aufgaben": [
+    "Arbeiten im Straßen- und Kanalbau ausführen",
+    "Bagger und Baumaschinen führen, Flächen auskoffern",
+    "Bordsteine setzen, Kanäle verlegen und anschließen",
+    "Baugeräte und Werkzeuge bedienen und pflegen",
+    "Qualitäts- und Sicherheitsvorgaben auf der Baustelle einhalten"
+  ],
+  "anforderung": "Berufserfahrung im Straßen-, Tief- oder Kanalbau, Führerschein Klasse B, zuverlässig und einsatzbereit – idealerweise mit abgeschlossener Ausbildung in diesem Bereich.",
+  "fachrichtungen_frage": "Was ist dein beruflicher Hintergrund?",
+  "fachrichtungen": [
+    {
+      "label": "Straßenbau",
+      "icon": "🚧",
+      "qualifikationen": [
+        {
+          "label": "Ausgebildeter Straßenbauer",
+          "icon": "🎓"
+        },
+        {
+          "label": "Vorarbeiter / Polier",
+          "icon": "🏅"
+        },
+        {
+          "label": "Erfahren ohne Ausbildung",
+          "icon": "💪"
+        },
+        {
+          "label": "Quereinsteiger",
+          "icon": "🔄"
+        }
+      ]
+    },
+    {
+      "label": "Tief- & Kanalbau",
+      "icon": "🕳️",
+      "qualifikationen": [
+        {
+          "label": "Ausgebildeter Kanal-/Tiefbauer",
+          "icon": "🎓"
+        },
+        {
+          "label": "Vorarbeiter / Polier",
+          "icon": "🏅"
+        },
+        {
+          "label": "Erfahren ohne Ausbildung",
+          "icon": "💪"
+        },
+        {
+          "label": "Quereinsteiger",
+          "icon": "🔄"
+        }
+      ]
+    },
+    {
+      "label": "Baumaschinen / Bagger",
+      "icon": "🚜",
+      "qualifikationen": [
+        {
+          "label": "Baumaschinenführer mit Nachweis",
+          "icon": "🎓"
+        },
+        {
+          "label": "Erfahren im Baggerfahren",
+          "icon": "🏅"
+        },
+        {
+          "label": "Erste Erfahrung, will mehr",
+          "icon": "💪"
+        },
+        {
+          "label": "Quereinsteiger",
+          "icon": "🔄"
+        }
+      ]
+    },
+    {
+      "label": "Anderer Bereich",
+      "icon": "🛠️",
+      "qualifikationen": [
+        {
+          "label": "Abgeschlossene Ausbildung",
+          "icon": "🎓"
+        },
+        {
+          "label": "Meister / Techniker",
+          "icon": "🏅"
+        },
+        {
+          "label": "Erfahren ohne Ausbildung",
+          "icon": "💪"
+        },
+        {
+          "label": "Quereinsteiger",
+          "icon": "🔄"
+        }
+      ]
+    }
+  ],
+  "ueber": {
+    "fakten": [
+      {
+        "zahl": "43",
+        "label": "Mitarbeiter"
+      },
+      {
+        "zahl": "1996",
+        "label": "gegründet"
+      },
+      {
+        "zahl": "6,0 m",
+        "label": "Kanalbau-Tiefe"
+      }
+    ],
+    "text": "Seit 1996 ist die IBW Baugesellschaft mbH im allgemeinen Tiefbau – Rohrleitungs- und Kanalbau bis 6,0 Meter Tiefe – und im Straßenbau tätig. Das Hauptauftragsgebiet umfasst das nördliche Brandenburg, das südliche Mecklenburg-Vorpommern und die Insel Rügen. Zu den Kunden zählen Industriebetriebe, Architekten und Planer, Privatkunden und öffentliche Auftraggeber."
+  },
+  "hero_bild": "img/hero.jpg",
+  "bilder": [
+    "img/foto-02-bagger.jpg",
+    "img/foto-01-baugrube.jpg",
+    "img/foto-03-kanalbau.jpg",
+    "img/foto-04-strassenbau.jpg",
+    "img/foto-05-verbau.jpg",
+    "img/foto-06-kranarbeiten.jpg",
+    "img/foto-07-pflasterweg.jpg",
+    "img/foto-08-firmensitz.jpg"
+  ],
+  "karte": {
+    "bild": "img/karte.jpg",
+    "label": "Pritzwalk"
+  },
+  "kunde_tab": "10 IBW Baugesellschaft mbH",
+  "quelle": "https://ibw-bau.green-careers.de",
+  "logo": "logo.jpg"
+}
