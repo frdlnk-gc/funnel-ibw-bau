@@ -162,5 +162,9 @@
   },
   "kunde_tab": "10 IBW Baugesellschaft mbH",
   "quelle": "https://ibw-bau.green-careers.de",
-  "logo": "logo.jpg"
+  "logo": "logo.jpg",
+  "meta_geo": [
+    "16928 Pritzwalk",
+    "16909 Heiligengrabe"
+  ]
 }

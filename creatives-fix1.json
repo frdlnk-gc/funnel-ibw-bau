@@ -1,0 +1,28 @@
+[
+  {
+    "name": "creative-1-bagger-benefits",
+    "bilder": [
+      "logo.jpg",
+      "img/foto-02-bagger.jpg"
+    ],
+    "prompt": "Erstelle ein Werbe-Creative im Hochformat für eine Meta-Stellenanzeige. Beigefügt: (1) das Firmenlogo 'IBW Baugesellschaft mbH' (blaues Haus-/Dach-Symbol, große blaue Buchstaben IBW), (2) ein Foto eines orangefarbenen Baggers mit langem Ausleger an einer Baugrube vor blauem Himmel. Nutze das Foto unverändert als obere Bildhälfte, darunter eine ruhige dunkelblaue Fläche (#0033B3). Layout unten von oben nach unten, exakt diese Zeilen: Headline groß, fett, weiß: „BAGGERFAHRER“ mit kleinem Zusatz „(m/w/d)“. Standort-Zeile mit kleinem roten Pin-Symbol: „Heiligengrabe · Pritzwalk · Wittstock & Umgebung“. Vier Benefit-Pills (weiße abgerundete Balken mit blauem Häkchen, schwarze Schrift): „Keine Montage mit Übernachtung“ / „Verpflegung inklusive“ / „Unbefristeter Arbeitsvertrag“ / „Interne Karrierechancen“. Ganz unten ein Balken in kräftigem Blau (#004CFF) mit weißer Schrift: „Jetzt unverbindliches Job-Angebot erhalten“. Das beigefügte Logo original und unverändert oben links auf weißer Mini-Kachel. Sauberes, modernes Recruiting-Design. Verboten: Telefonnummern, E-Mail-Adressen, Website-URLs, QR-Codes, Personennamen, Postanschriften, Gehaltszahlen, erfundene Siegel oder Logos. Erfinde KEINEN weiteren Text: setze ausschließlich die oben wörtlich vorgegebenen Zeilen, buchstabengetreu inklusive Umlaute und ß. Logo und Fotos nicht verändern, verzerren oder umfärben (nur zuschneiden). Aller Text vollständig innerhalb seiner Flächen, nichts angeschnitten, Deutsch fehlerfrei."
+  },
+  {
+    "name": "creative-3-strassenbau-benefits",
+    "bilder": [
+      "logo.jpg",
+      "img/hero.jpg"
+    ],
+    "prompt": "Erstelle ein Werbe-Creative im Hochformat für eine Meta-Stellenanzeige. Beigefügt: (1) das Firmenlogo 'IBW Baugesellschaft mbH' (blaues Haus-/Dach-Symbol, große blaue Buchstaben IBW), (2) ein Foto von zwei Bauarbeitern, die auf einer Straßenbaustelle Bordsteine setzen, im Hintergrund Baumaschinen und herbstliche Bäume. Nutze das Foto unverändert als obere Bildhälfte (ohne Köpfe anzuschneiden), darunter eine ruhige dunkelblaue Fläche (#0033B3). Layout unten von oben nach unten, exakt diese Zeilen: Headline groß, fett, weiß in zwei Zeilen: „STRASSENBAU-“ und „FACHARBEITER“ mit kleinem Zusatz „(m/w/d)“. Standort-Zeile mit kleinem roten Pin-Symbol: „Pritzwalk · Wittstock · Perleberg & Umgebung“. Vier Benefit-Pills (weiße abgerundete Balken mit blauem Häkchen, schwarze Schrift): „Keine Montage mit Übernachtung“ / „Verpflegung inklusive“ / „Zertifizierungen werden bezahlt“ / „Unbefristeter Arbeitsvertrag“. Ganz unten ein Balken in kräftigem Blau (#004CFF) mit weißer Schrift: „Jetzt unverbindliches Job-Angebot erhalten“. Das beigefügte Logo original und unverändert oben links auf weißer Mini-Kachel. Sauberes, modernes Recruiting-Design. Verboten: Telefonnummern, E-Mail-Adressen, Website-URLs, QR-Codes, Personennamen, Postanschriften, Gehaltszahlen, erfundene Siegel oder Logos. Erfinde KEINEN weiteren Text: setze ausschließlich die oben wörtlich vorgegebenen Zeilen, buchstabengetreu inklusive Umlaute und ß. Logo und Fotos nicht verändern, verzerren oder umfärben (nur zuschneiden). Aller Text vollständig innerhalb seiner Flächen, nichts angeschnitten, Deutsch fehlerfrei."
+  },
+  {
+    "name": "creative-4-strassenbau-collage",
+    "bilder": [
+      "logo.jpg",
+      "img/foto-04-strassenbau.jpg",
+      "img/foto-07-pflasterweg.jpg",
+      "img/foto-03-kanalbau.jpg"
+    ],
+    "prompt": "Erstelle ein Werbe-Creative im Hochformat für eine Meta-Stellenanzeige als saubere Foto-Collage. Beigefügt: (1) das Firmenlogo 'IBW Baugesellschaft mbH' (blaues Haus-Symbol, große blaue Buchstaben IBW), (2) ein Foto einer frisch asphaltierten Ortsdurchfahrt mit Baumaschinen, (3) ein Foto eines neu gepflasterten Gehwegs entlang einer Backsteinmauer, (4) ein Foto von Kanalrohren und Schachtringen in einer offenen Baugrube. Ordne die drei Fotos als klares Raster mit schmalen weißen Fugen an (ein großes Foto oben, zwei kleinere darunter nebeneinander), jedes Foto unverändert. Darunter eine weiße Fläche mit genau zwei Textelementen: erstens die Headline groß, fett, dunkelblau: „Straße, Tiefbau und Kanal – alles aus einer Hand“; zweitens – PFLICHT, darf nicht weggelassen werden – direkt darunter ein durchgehender blauer Balken (#004CFF) über die volle Breite mit weißer Schrift: „Straßenbaufacharbeiter (m/w/d) in Pritzwalk & Umgebung“. Das beigefügte Logo original und unverändert unten mittig. Viel Weißraum, hochwertig. Verboten: Telefonnummern, E-Mail-Adressen, Website-URLs, QR-Codes, Personennamen, Postanschriften, Gehaltszahlen, erfundene Siegel oder Logos. Erfinde KEINEN weiteren Text: setze ausschließlich die oben wörtlich vorgegebenen Zeilen, buchstabengetreu inklusive Umlaute und ß. Logo und Fotos nicht verändern, verzerren oder umfärben (nur zuschneiden). Aller Text vollständig innerhalb seiner Flächen, nichts angeschnitten, Deutsch fehlerfrei."
+  }
+]

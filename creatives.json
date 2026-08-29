@@ -1,0 +1,36 @@
+[
+  {
+    "name": "creative-1-bagger-benefits",
+    "bilder": [
+      "logo.jpg",
+      "img/foto-02-bagger.jpg"
+    ],
+    "prompt": "Erstelle ein Werbe-Creative im Hochformat für eine Meta-Stellenanzeige. Beigefügt: (1) das Firmenlogo 'IBW Baugesellschaft mbH' (blaues Haus-/Dach-Symbol mit grauer Linie, darunter grosse blaue Buchstaben IBW), (2) ein Foto eines orangefarbenen Baggers mit langem Ausleger an einer Baugrube vor blauem Himmel. Nutze das Foto unveraendert als obere Bildhaelfte, darunter eine ruhige dunkelblaue Flaeche (#0033B3). Layout unten von oben nach unten: Headline gross, fett, weiss: 'BAGGERFAHRER' mit kleinem Zusatz '(m/w/d)'. Standort-Zeile mit kleinem roten Pin-Symbol: 'Heiligengrabe · Pritzwalk · Wittstock & Umgebung'. Vier Benefit-Pills (weisse abgerundete Balken mit blauem Haekchen, schwarze Schrift): 'Keine Montage mit Uebernachtung' / 'Verpflegung inklusive' / 'Unbefristeter Arbeitsvertrag' / 'Interne Karrierechancen'. Ganz unten ein Balken in kraeftigem Blau (#004CFF) mit weisser Schrift: 'Jetzt unverbindliches Job-Angebot erhalten'. Das beigefuegte Logo original und unveraendert oben links auf weisser Mini-Kachel. Sauberes, modernes Recruiting-Design. Verboten: Telefonnummern, E-Mail-Adressen, Website-URLs, QR-Codes, Personennamen, Gehaltszahlen, erfundene Siegel oder Logos; Logo und Fotos nicht veraendern, verzerren oder umfaerben (nur zuschneiden). Aller Text vollstaendig innerhalb seiner Flaechen, nichts angeschnitten, Deutsch fehlerfrei."
+  },
+  {
+    "name": "creative-2-bagger-vollbild",
+    "bilder": [
+      "logo.jpg",
+      "img/foto-01-baugrube.jpg"
+    ],
+    "prompt": "Erstelle ein Werbe-Creative im Hochformat für eine Meta-Stellenanzeige als Vollbild. Beigefügt: (1) das Firmenlogo 'IBW Baugesellschaft mbH' (blaues Haus-/Dach-Symbol, grosse blaue Buchstaben IBW), (2) ein Foto einer tiefen Baugrube mit gelbem Verbau und einem orangefarbenen Minibagger darin. Nutze das Foto formatfuellend und unveraendert als Hintergrund; lege ueber die untere Bildhaelfte einen weichen Verlauf von transparent nach fast schwarz, damit der Text sicher lesbar ist. Text unten linksbuendig: kleine hellblaue Ueberzeile 'IBW BAUGESELLSCHAFT SUCHT'; darunter eine sehr grosse, fette weisse Headline in zwei Zeilen: 'Abends immer zuhause.'; darunter eine kleinere weisse Zeile: 'Baggerfahrer (m/w/d) · Strassen- und Tiefbau · Heiligengrabe'. Das beigefuegte Logo original und unveraendert oben rechts auf einer kleinen weissen Kachel. Kein weiterer Text, ruhige hochwertige Anmutung. Verboten: Telefonnummern, E-Mail-Adressen, Website-URLs, QR-Codes, Personennamen, Gehaltszahlen, erfundene Siegel oder Logos; Logo und Fotos nicht veraendern, verzerren oder umfaerben (nur zuschneiden). Aller Text vollstaendig innerhalb seiner Flaechen, nichts angeschnitten, Deutsch fehlerfrei."
+  },
+  {
+    "name": "creative-3-strassenbau-benefits",
+    "bilder": [
+      "logo.jpg",
+      "img/hero.jpg"
+    ],
+    "prompt": "Erstelle ein Werbe-Creative im Hochformat für eine Meta-Stellenanzeige. Beigefügt: (1) das Firmenlogo 'IBW Baugesellschaft mbH' (blaues Haus-/Dach-Symbol mit grauer Linie, darunter grosse blaue Buchstaben IBW), (2) ein Foto von zwei Bauarbeitern, die auf einer Strassenbaustelle Bordsteine setzen, im Hintergrund Baumaschinen und herbstliche Baeume. Nutze das Foto unveraendert als obere Bildhaelfte (ohne Koepfe anzuschneiden), darunter eine ruhige dunkelblaue Flaeche (#0033B3). Layout unten von oben nach unten: Headline gross, fett, weiss: 'STRASSENBAU-FACHARBEITER' mit kleinem Zusatz '(m/w/d)'. Standort-Zeile mit kleinem roten Pin-Symbol: 'Pritzwalk · Wittstock · Perleberg & Umgebung'. Vier Benefit-Pills (weisse abgerundete Balken mit blauem Haekchen, schwarze Schrift): 'Keine Montage mit Uebernachtung' / 'Verpflegung inklusive' / 'Zertifizierungen werden bezahlt' / 'Unbefristeter Arbeitsvertrag'. Ganz unten ein Balken in kraeftigem Blau (#004CFF) mit weisser Schrift: 'Jetzt unverbindliches Job-Angebot erhalten'. Das beigefuegte Logo original und unveraendert oben links auf weisser Mini-Kachel. Sauberes, modernes Recruiting-Design. Verboten: Telefonnummern, E-Mail-Adressen, Website-URLs, QR-Codes, Personennamen, Gehaltszahlen, erfundene Siegel oder Logos; Logo und Fotos nicht veraendern, verzerren oder umfaerben (nur zuschneiden). Aller Text vollstaendig innerhalb seiner Flaechen, nichts angeschnitten, Deutsch fehlerfrei."
+  },
+  {
+    "name": "creative-4-strassenbau-collage",
+    "bilder": [
+      "logo.jpg",
+      "img/foto-04-strassenbau.jpg",
+      "img/foto-07-pflasterweg.jpg",
+      "img/foto-03-kanalbau.jpg"
+    ],
+    "prompt": "Erstelle ein Werbe-Creative im Hochformat für eine Meta-Stellenanzeige als saubere Foto-Collage. Beigefügt: (1) das Firmenlogo 'IBW Baugesellschaft mbH' (blaues Haus-Symbol, grosse blaue Buchstaben IBW), (2) ein Foto einer frisch asphaltierten Ortsdurchfahrt mit Baumaschinen, (3) ein Foto eines neu gepflasterten Gehwegs entlang einer Backsteinmauer, (4) ein Foto von Kanalrohren und Schachtringen in einer offenen Baugrube. Ordne die drei Fotos als klares Raster mit schmalen weissen Fugen an (ein grosses Foto oben, zwei kleinere darunter nebeneinander), jedes Foto unveraendert. Darunter eine weisse Flaeche mit Headline gross, fett, dunkelblau: 'Strasse, Tiefbau und Kanal – alles aus einer Hand'; darunter eine kleinere Zeile auf blauem Balken (#004CFF) in weiss: 'Strassenbaufacharbeiter (m/w/d) in Pritzwalk & Umgebung'. Das beigefuegte Logo original und unveraendert unten mittig. Viel Weissraum, hochwertig, kein weiterer Text. Verboten: Telefonnummern, E-Mail-Adressen, Website-URLs, QR-Codes, Personennamen, Gehaltszahlen, erfundene Siegel oder Logos; Logo und Fotos nicht veraendern, verzerren oder umfaerben (nur zuschneiden). Aller Text vollstaendig innerhalb seiner Flaechen, nichts angeschnitten, Deutsch fehlerfrei."
+  }
+]
